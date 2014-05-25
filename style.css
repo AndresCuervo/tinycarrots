@@ -11,7 +11,7 @@ body {
 				border: 0px;
 				background-color: #D1F7E0;}
 			#logo {
-				display: block;
+				display: block, inline;
 				width: 150px;
 				height: auto;
 				margin: 10px auto 25px auto;}
@@ -30,6 +30,11 @@ body {
 				width: 600px; 
 				margin: 20px auto 20px auto; 
 				font-weight: normal;}
+			p.logo-text {
+				font-family: impact;
+				font-weight:bold;
+				display: inline;
+			}
 			div.contact-title {
 				text-align: left;
 				font-weight: bold;
