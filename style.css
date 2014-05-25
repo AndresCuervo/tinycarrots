@@ -2,14 +2,14 @@ body {
 				font-size: 80%;
 				font-family: "Arial", Courier, monospace;
 				letter-spacing: 0.15em;	
-				background-color: rgb(255, 255, 255);}
+				background-color: #F4870C;}
 			#page {
 				max-width: 940px;
 				min-width: 720px;
 				margin: 10px auto 10px auto;
 				padding: 20px;
 				border: 0px;
-				background-color: rgb(0, 255, 255);}
+				background-color: #D1F7E0;}
 			#logo {
 				width: 150px;
 				margin: 10px auto 25px auto;}
