@@ -31,10 +31,9 @@ body {
 				margin: 20px auto 20px auto; 
 				font-weight: normal;}
 			p.logo-text {
-				text-align: center;
 				font-family: impact;
 				font-weight:bold;
-				display: inline;
+				display: center;
 			}
 			div.contact-title {
 				text-align: left;
