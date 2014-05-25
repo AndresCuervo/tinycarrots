@@ -11,7 +11,7 @@ body {
 				border: 0px;
 				background-color: #D1F7E0;}
 			#logo {
-				display: inline;
+				display: block;
 				width: 150px;
 				height: auto;
 				margin: 10px auto 25px auto;}
