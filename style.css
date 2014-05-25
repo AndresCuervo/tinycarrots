@@ -43,7 +43,7 @@ body {
 				color: #cc3333;
 				background-color: #ffffff;}
 			a.on {
-				color: red;
+				font-weight: 900;
 				
 			}
 }
